@@ -39,6 +39,17 @@
 
 ---
 
+## Навыки:
+
+| Категория | Технологии |
+|---|---|
+| **Языки программирования** | [Python, C++] |
+| **Фреймворки и библиотеки** | [Django, Pandas, Seaborn, Pygame] |
+| **Системы контроля версий** | [Git, GitHub] |
+| **Инструменты разработки** | [VS Code, PyCharm] |
+
+---
+
 ## Иностранные языки
 
 | Язык | Уровень |
@@ -49,5 +60,7 @@
 
 ## Проекты
 
+- https://github.com/KarlFillipovich/Learning_log
+- https://github.com/KarlFillipovich/amcp-cv
 
 ---
